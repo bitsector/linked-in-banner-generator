@@ -1,27 +1,24 @@
-Linked-in Banner Generator
+## Linked-in Banner Generator
 
 License: MIT Version 1.0.0
 Platform: Ubuntu, Bash
 
-Prerequisites
+# Prerequisites
     Python 3.x
     pip3
 
-Installation:
+# Installation:
     pip install -r requirements.txt
-
-Give the script execute permission:
     sudo chmod +x banner_generator.py
+    Enter your text lines in desired_text.json
 
-Enter your text lines in desired_text.json
-
-Launch the script
+# Launch the script
     ./banner_generator.py RRGGBB RRGGBB
 
-Example invocation
+# Example invocation
     ./banner_generator.py FF00FF FFCCFF
 
-Parameters (in order)
+# Parameters (in order)
     RGB color start (ALL CAPS)
     RGB color end (ALL CAPS)
 
