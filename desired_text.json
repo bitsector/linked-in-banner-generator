@@ -1,0 +1,6 @@
+{
+    "line1": "i_am = ['Software engineer', 'Tech enthusiast', 'Make cloud stuff connect']",
+    "line2": "skills = ['Python|Go|C++|Java|Bash', 'K8S', 'Linux', 'DevOps']",
+    "line3": "platforms = ['Linux', 'K8S|GCP|AWS|Azure', 'Docker']",
+    "line4": "edu = ['Math and CS B.Sc', 'CS M.Sc - ONGOING']"
+}
