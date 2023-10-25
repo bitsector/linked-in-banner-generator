@@ -8,7 +8,7 @@ Platform: Ubuntu, Bash
     pip3
 
 # Installation:
-    pip install -r requirements.txt
+    python3 -m pip install -r requirements.txt
     sudo chmod +x banner_generator.py
     Enter your text lines in desired_text.json
 
